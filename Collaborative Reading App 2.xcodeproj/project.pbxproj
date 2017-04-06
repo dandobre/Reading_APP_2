@@ -13,6 +13,7 @@
 		3F6040161E966D7C00B7703F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F6040151E966D7C00B7703F /* Assets.xcassets */; };
 		3F6040191E966D7C00B7703F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F6040171E966D7C00B7703F /* LaunchScreen.storyboard */; };
 		3F6040211E966EC500B7703F /* FirstRunTutorial.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F6040201E966EC500B7703F /* FirstRunTutorial.storyboard */; };
+		3FEB1A1C1E96716900A5FACB /* Myriad Pro Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3FEB1A1B1E96716900A5FACB /* Myriad Pro Regular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3F6040181E966D7C00B7703F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3F60401A1E966D7C00B7703F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3F6040201E966EC500B7703F /* FirstRunTutorial.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = FirstRunTutorial.storyboard; sourceTree = "<group>"; };
+		3FEB1A1B1E96716900A5FACB /* Myriad Pro Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Myriad Pro Regular.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		3F60400D1E966D7C00B7703F /* Collaborative Reading App 2 */ = {
 			isa = PBXGroup;
 			children = (
+				3FEB1A1A1E96713400A5FACB /* Fonts */,
 				3F60400E1E966D7C00B7703F /* AppDelegate.swift */,
 				3F6040101E966D7C00B7703F /* ViewController.swift */,
 				3F6040121E966D7C00B7703F /* Main.storyboard */,
@@ -65,6 +68,14 @@
 				3F60401A1E966D7C00B7703F /* Info.plist */,
 			);
 			path = "Collaborative Reading App 2";
+			sourceTree = "<group>";
+		};
+		3FEB1A1A1E96713400A5FACB /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				3FEB1A1B1E96716900A5FACB /* Myriad Pro Regular.ttf */,
+			);
+			name = Fonts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -128,6 +139,7 @@
 			files = (
 				3F6040191E966D7C00B7703F /* LaunchScreen.storyboard in Resources */,
 				3F6040161E966D7C00B7703F /* Assets.xcassets in Resources */,
+				3FEB1A1C1E96716900A5FACB /* Myriad Pro Regular.ttf in Resources */,
 				3F6040141E966D7C00B7703F /* Main.storyboard in Resources */,
 				3F6040211E966EC500B7703F /* FirstRunTutorial.storyboard in Resources */,
 			);
@@ -303,6 +315,7 @@
 				3F60401F1E966D7C00B7703F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
