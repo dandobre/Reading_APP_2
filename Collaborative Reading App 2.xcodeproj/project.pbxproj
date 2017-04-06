@@ -12,6 +12,7 @@
 		3F6040141E966D7C00B7703F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F6040121E966D7C00B7703F /* Main.storyboard */; };
 		3F6040161E966D7C00B7703F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F6040151E966D7C00B7703F /* Assets.xcassets */; };
 		3F6040191E966D7C00B7703F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F6040171E966D7C00B7703F /* LaunchScreen.storyboard */; };
+		3F6040211E966EC500B7703F /* FirstRunTutorial.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F6040201E966EC500B7703F /* FirstRunTutorial.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		3F6040151E966D7C00B7703F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3F6040181E966D7C00B7703F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3F60401A1E966D7C00B7703F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F6040201E966EC500B7703F /* FirstRunTutorial.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = FirstRunTutorial.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				3F60400E1E966D7C00B7703F /* AppDelegate.swift */,
 				3F6040101E966D7C00B7703F /* ViewController.swift */,
 				3F6040121E966D7C00B7703F /* Main.storyboard */,
+				3F6040201E966EC500B7703F /* FirstRunTutorial.storyboard */,
 				3F6040151E966D7C00B7703F /* Assets.xcassets */,
 				3F6040171E966D7C00B7703F /* LaunchScreen.storyboard */,
 				3F60401A1E966D7C00B7703F /* Info.plist */,
@@ -126,6 +129,7 @@
 				3F6040191E966D7C00B7703F /* LaunchScreen.storyboard in Resources */,
 				3F6040161E966D7C00B7703F /* Assets.xcassets in Resources */,
 				3F6040141E966D7C00B7703F /* Main.storyboard in Resources */,
+				3F6040211E966EC500B7703F /* FirstRunTutorial.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
